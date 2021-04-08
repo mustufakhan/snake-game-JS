@@ -1,2 +1,2 @@
 # snake-game-JS
-javascipt and canvas-HTML5
+javascipt and canvas- HTML5
